@@ -18,10 +18,6 @@
 
 <br />
 
-### Languages and Tools:
-
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
