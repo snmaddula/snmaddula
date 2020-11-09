@@ -5,9 +5,9 @@
 
 ## I'm a Husband, Son and Developer!!
 
-- 🌱 I’m currently learning Flutter & Splunk 🤣
+- 🌱 I’m currently learning Flutter & Splunk
 - 🥅 2021 Goals: Contribute more towards A.I based solutions
-- ⚡ Fun fact: I love to travel and explore historical places
+- ⚡ Fun fact: I love to travel and explore historical places 🤣
 
 ### Connect with me: 
 
