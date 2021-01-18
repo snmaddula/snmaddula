@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=snmaddula&style=for-the-badge&url=https%3A%2F%2Fsnmaddula.github.io)](https://snmaddula.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/snmaddula?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%snmaddula&screen_name=snmaddula)
 
-## I'm a Nobody!!
+## I'm a Programmer by choice!!
 
 - 🌱 I’m currently learning Flutter & Splunk
 - 🥅 2021 Goals: Contribute more towards A.I based solutions
