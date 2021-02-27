@@ -33,5 +33,5 @@
 
 [website]: https://snmaddula.github.io
 [twitter]: https://twitter.com/snmaddula
-[youtube]: https://www.youtube.com/channel/UCZKQn-iaVly6dwOjxKMpspw
+[youtube]: https://www.youtube.com/c/snmaddula
 [linkedin]: https://linkedin.com/in/snmaddula
