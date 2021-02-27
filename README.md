@@ -22,7 +22,7 @@
 
 ### 📺 Latest YouTube Videos
 
-➡️ [more videos...](https://youtube.com/channel/UCZKQn-iaVly6dwOjxKMpspw)
+➡️ [more videos...](https://youtube.com/c/snmaddula)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
