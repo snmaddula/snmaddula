@@ -24,13 +24,6 @@
 
 ➡️ [more videos...](https://youtube.com/c/snmaddula)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="snmaddula's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=snmaddula&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://snmaddula.github.io
 [twitter]: https://twitter.com/snmaddula
 [youtube]: https://www.youtube.com/c/snmaddula
