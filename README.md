@@ -5,8 +5,8 @@
 
 ## I'm a Programmer by choice!!
 
-- 🌱 I’m currently learning Flutter & Splunk
-- 🥅 2021 Goals: Contribute more towards A.I based solutions
+- 🌱 I’m currently working on building Public API Framwework | TBAC (Token Based Access Control) Plugins | API Manager
+- 🥅 2022 Goals: Contribute more towards A.I based solutions
 - ⚡ Fun fact: I love to travel and explore historical places 🤣
 
 ### Connect with me: 
