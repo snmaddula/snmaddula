@@ -28,11 +28,3 @@
 - 🧠 I enjoy simplifying complex systems into elegant, modular code  
 - 🌌 Low-key obsessed with building tools that feel like science fiction
 
-
-### Connect with me: 
-[<img align="left" alt="snmaddula.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="snmaddula | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="snmaddula | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="snmaddula | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
